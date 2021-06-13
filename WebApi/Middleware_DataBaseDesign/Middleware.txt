@@ -1,0 +1,7 @@
+﻿Middleware, tekrar eden işlemleri üstlenen, amaca yönelik görevleri gerçekleştiren çözümlerden biridir, ve birbirleri ile iletişim halindeki uygulamalar arasında, tekrar eden görevleri gerçekleştirmek amacıyla yer alan ara yazılımlardır.
+Aynı zamanda dağıtılmış uygulamalar için iletişim ve veri yönetimini sağlayabilirler.
+
+Örnek olarak:
+1-)Kişi internet sitesine giriş yaptığında anasayfa girdiği zaman kullanıcıyı login sayfasına yönledirebilir.
+2-)Kişi internet sitesinde kendi oturumuna giriş yaptığı zaman sistemin otomatik olarak kullanıcıya bildirimler vermesi.
+3-)Kişi internet sitesinde oturumundan çıkış yaptığı zaman kullanıcıya iyi günler mesajını ekranında göstermesi.
